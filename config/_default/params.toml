@@ -1,0 +1,81 @@
+#################### default parameters ################################
+logo = "images/logo.png"
+logo_text = "NFT Gamez"
+logo_width = "160x"
+favicon = "images/favicon.png"
+# Meta data
+description = "Your partner for everything crypto game related"
+author = "DataFortress.cloud"
+image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+# contact info
+address = "Augsburg, Germany"
+mobile = "+49 152 24556134"
+email = "defigamez@datafortress.cloud"
+# contact form action
+contact_form_action = "https://formspree.io/f/mjvlokdr" # contact form works with https://formspree.io
+# top hedaer
+top_hedaer = false
+# custom script on header
+custom_script= ""
+
+# Preloader
+[preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation buttons
+[navigation_button_solid]
+enable = true
+label = "Contact"
+link = "/contact"
+
+[navigation_button_bordered]
+enable = false
+label = "Log In"
+link = ""
+
+# Sections
+[service_section]
+section = "services"
+
+# Subscription
+[subscription]
+enable = true
+description = "Stay up to date with the latest crypto news"
+# mailchimp subsciption
+mailchimp_form_action = "https://cloud.us19.list-manage.com/subscribe/post?u=29b9af4020a7ab7d1e6a76d72&amp;id=3622b2a9a6" # replace this url with yours
+mailchimp_form_name = "b_29b9af4020a7ab7d1e6a76d72_3622b2a9a6" # replace this code with yours
+
+# cookies
+[cookies]
+enable = true
+expire_days = 2
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
+
+
+######################## sidebar widgets #########################
+[widgets]
+sidebar = ["categories", "tags", "recent-post", "social"]
+# available widget : categories,tags,recent-post,social
+
+############################# social site ########################
+[[social]]
+title = "facebook"
+icon = "fab fa-facebook-f" # line-awesome : https://icons8.com/line-awesome
+link = "https://facebook.com/"
+
+[[social]]
+title = "twitter"
+icon = "fab fa-twitter" # line-awesome : https://icons8.com/line-awesome
+link = "https://twitter.com/"
+
+[[social]]
+title = "instagram"
+icon = "fab fa-instagram" # line-awesome : https://icons8.com/line-awesome
+link = "https://instagram.com/"
+
+############################# Footer Widget ########################
+[[footer_widget]]
+title = "Service"
+  footer_widget_link = ""

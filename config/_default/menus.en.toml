@@ -1,0 +1,98 @@
+# main menu
+[[main]]
+name = "About"
+url = "about/"
+weight = 2
+
+# [[main]]
+# name = "How It Works"
+# url = "how-it-works/"
+# weight = 3
+
+[[main]]
+name = "Tutorial"
+url = "services/"
+weight = 3
+
+[[main]]
+name = "Blog"
+url = "blog/"
+weight = 4
+  
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 5
+  
+[[main]]
+name = "Legal"
+weight = 6
+hasChildren = true
+
+  # [[main]]
+  # parent = "Legal"
+  # name = "Service Details"
+  # url = "services/service-1/"
+  # weight = 1
+
+  [[main]]
+  parent = "Legal"
+  name = "FAQ's"
+  url = "faq/"
+  weight = 2
+
+  [[main]]
+  parent = "Legal"
+  name = "Legal"
+  url = "legal/"
+  weight = 3
+
+  # [[main]]
+  # parent = "Legal"
+  # name = "AGB"
+  # url = "terms/"
+  # weight = 4
+
+  [[main]]
+  parent = "Legal"
+  name = "Privacy & Policy"
+  url = "privacy-policy/"
+  weight = 5
+
+
+################################### Footer Menu #####################################
+[[footer]]
+name = "AGB"
+url = "/terms"
+
+[[footer]]
+name = "Datenschutz"
+url = "/privacy-policy"
+
+
+
+[[about]]
+name = "Our Story"
+url = "/about"
+
+# [[about]]
+# name = "Benefits"
+# url = "/benefits"
+
+# [[about]]
+# name = "Team"
+# url = "/team"
+
+# [[about]]
+# name = "Careers"
+# url = "/careers"
+
+
+
+[[help]]
+name = "FAQs"
+url = "/faq"
+
+[[help]]
+name = "Contact Us"
+url = "/contact"

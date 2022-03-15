@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How to on Blockchain Daily</title>
+    <link>https://blockchain-daily.com/services/</link>
+    <description>Recent content in How to on Blockchain Daily</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Developed By [DataFortress.cloud](https://www.datafortress.cloud/)</copyright>
+    <lastBuildDate>Fri, 11 Mar 2022 15:40:24 +0600</lastBuildDate><atom:link href="https://blockchain-daily.com/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advertising on Blockchain-Daily.com</title>
+      <link>https://blockchain-daily.com/services/advertising-on-blockchain-daily/</link>
+      <pubDate>Sat, 12 Mar 2022 15:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/services/advertising-on-blockchain-daily/</guid>
+      <description>Blockchain Daily is a daily newsletter reaching hundreds of people on a daily basis.</description>
+    </item>
+    
+    <item>
+      <title>How do I buy Crypto?</title>
+      <link>https://blockchain-daily.com/services/how-to-buy-crypto/</link>
+      <pubDate>Sat, 12 Mar 2022 15:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/services/how-to-buy-crypto/</guid>
+      <description>tbd</description>
+    </item>
+    
+    <item>
+      <title>Consultation around Crypto</title>
+      <link>https://blockchain-daily.com/services/crypto-consultation/</link>
+      <pubDate>Fri, 18 Feb 2022 15:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/services/crypto-consultation/</guid>
+      <description>Do you want to start your own Crypto project? Or do you want to publish some NFTs yourself and do not know how?</description>
+    </item>
+    
+  </channel>
+</rss>
