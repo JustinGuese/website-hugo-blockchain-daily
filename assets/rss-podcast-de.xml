@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <channel>
+          <title>
+              blockchain-daily.com Crypto News DE
+          </title>
+          <itunes:owner>
+                <itunes:email>info@datafortress.cloud</itunes:email>
+            </itunes:owner>
+            <itunes:author>Justin Güse</itunes:author>
+          <description>
+              Aktuellen Nachrichten aus der Crypto Szene.
+          </description>
+          <link>
+              https://blockchain-daily.com/de/
+          </link>
+          <lastBuildDate>Tue, 15 Mar 2022 09:59:28 +0100</lastBuildDate>
+          <generator>
+              blockchain-daily.com generator
+          </generator>
+          <itunes:image href="https://blockchain-daily.com/images/logo.png" />
+          <language>
+              de-de
+          </language>
+          <copyright>
+              CC blockchain-daily.com 2022
+          </copyright>
+          <managingEditor>
+              info@datafortress.cloud (Justin Güse)
+          </managingEditor>
+          <webMaster>
+              info@datafortress.cloud (Justin Güse)
+          </webMaster>
+          <category>
+              News
+          </category>
+          <ttl>
+              1800
+          </ttl>
+      </channel>
+</rss>
