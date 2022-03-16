@@ -6,6 +6,772 @@
     <description>Recent content in Categories on Blockchain Daily</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Developed By [DataFortress.cloud](https://www.datafortress.cloud/)</copyright><atom:link href="https://blockchain-daily.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Developed By [DataFortress.cloud](https://www.datafortress.cloud/)</copyright>
+    <lastBuildDate>Wed, 16 Mar 2022 12:40:24 +0600</lastBuildDate><atom:link href="https://blockchain-daily.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>news</title>
+      <link>https://blockchain-daily.com/categories/news/</link>
+      <pubDate>Wed, 16 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plans</title>
+      <link>https://blockchain-daily.com/categories/plans/</link>
+      <pubDate>Wed, 16 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/plans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>token</title>
+      <link>https://blockchain-daily.com/categories/token/</link>
+      <pubDate>Wed, 16 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/token/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virtual</title>
+      <link>https://blockchain-daily.com/categories/virtual/</link>
+      <pubDate>Wed, 16 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/virtual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>defi</title>
+      <link>https://blockchain-daily.com/categories/defi/</link>
+      <pubDate>Tue, 15 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/defi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>larva</title>
+      <link>https://blockchain-daily.com/categories/larva/</link>
+      <pubDate>Tue, 15 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/larva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nft</title>
+      <link>https://blockchain-daily.com/categories/nft/</link>
+      <pubDate>Tue, 15 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/nft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>create</title>
+      <link>https://blockchain-daily.com/categories/create/</link>
+      <pubDate>Mon, 14 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ethereum</title>
+      <link>https://blockchain-daily.com/categories/ethereum/</link>
+      <pubDate>Mon, 14 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/ethereum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nfts</title>
+      <link>https://blockchain-daily.com/categories/nfts/</link>
+      <pubDate>Mon, 14 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/nfts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>podcast_de</title>
+      <link>https://blockchain-daily.com/categories/podcast_de/</link>
+      <pubDate>Mon, 14 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/podcast_de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>https://blockchain-daily.com/categories/privacy/</link>
+      <pubDate>Mon, 14 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transactions</title>
+      <link>https://blockchain-daily.com/categories/transactions/</link>
+      <pubDate>Mon, 14 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/transactions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web3.js</title>
+      <link>https://blockchain-daily.com/categories/web3.js/</link>
+      <pubDate>Mon, 14 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/web3.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crypto</title>
+      <link>https://blockchain-daily.com/categories/crypto/</link>
+      <pubDate>Fri, 11 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/crypto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>decentralized</title>
+      <link>https://blockchain-daily.com/categories/decentralized/</link>
+      <pubDate>Fri, 11 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/decentralized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exchanges</title>
+      <link>https://blockchain-daily.com/categories/exchanges/</link>
+      <pubDate>Fri, 11 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/exchanges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>services</title>
+      <link>https://blockchain-daily.com/categories/services/</link>
+      <pubDate>Fri, 11 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stripe</title>
+      <link>https://blockchain-daily.com/categories/stripe/</link>
+      <pubDate>Fri, 11 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/stripe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>article</title>
+      <link>https://blockchain-daily.com/categories/article/</link>
+      <pubDate>Thu, 10 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>carbon</title>
+      <link>https://blockchain-daily.com/categories/carbon/</link>
+      <pubDate>Thu, 10 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/carbon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>launch</title>
+      <link>https://blockchain-daily.com/categories/launch/</link>
+      <pubDate>Thu, 10 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/launch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>likvidi</title>
+      <link>https://blockchain-daily.com/categories/likvidi/</link>
+      <pubDate>Thu, 10 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/likvidi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blockchain</title>
+      <link>https://blockchain-daily.com/categories/blockchain/</link>
+      <pubDate>Wed, 09 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ledger</title>
+      <link>https://blockchain-daily.com/categories/ledger/</link>
+      <pubDate>Wed, 09 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/ledger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sidechains</title>
+      <link>https://blockchain-daily.com/categories/sidechains/</link>
+      <pubDate>Wed, 09 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/sidechains/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>high</title>
+      <link>https://blockchain-daily.com/categories/high/</link>
+      <pubDate>Tue, 08 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>supply</title>
+      <link>https://blockchain-daily.com/categories/supply/</link>
+      <pubDate>Mon, 07 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/supply/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tokens</title>
+      <link>https://blockchain-daily.com/categories/tokens/</link>
+      <pubDate>Mon, 07 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/tokens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opensea</title>
+      <link>https://blockchain-daily.com/categories/opensea/</link>
+      <pubDate>Fri, 04 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/opensea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>users</title>
+      <link>https://blockchain-daily.com/categories/users/</link>
+      <pubDate>Fri, 04 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/users/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>airdrop</title>
+      <link>https://blockchain-daily.com/categories/airdrop/</link>
+      <pubDate>Thu, 03 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/airdrop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>layer</title>
+      <link>https://blockchain-daily.com/categories/layer/</link>
+      <pubDate>Thu, 03 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/layer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chains</title>
+      <link>https://blockchain-daily.com/categories/chains/</link>
+      <pubDate>Wed, 02 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/chains/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>organization</title>
+      <link>https://blockchain-daily.com/categories/organization/</link>
+      <pubDate>Wed, 02 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/organization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>game</title>
+      <link>https://blockchain-daily.com/categories/game/</link>
+      <pubDate>Tue, 01 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>million</title>
+      <link>https://blockchain-daily.com/categories/million/</link>
+      <pubDate>Tue, 01 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/million/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>https://blockchain-daily.com/categories/projects/</link>
+      <pubDate>Tue, 01 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>project</title>
+      <link>https://blockchain-daily.com/categories/project/</link>
+      <pubDate>Mon, 28 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>protocol</title>
+      <link>https://blockchain-daily.com/categories/protocol/</link>
+      <pubDate>Thu, 24 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/protocol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wallet</title>
+      <link>https://blockchain-daily.com/categories/wallet/</link>
+      <pubDate>Thu, 24 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/wallet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>magic</title>
+      <link>https://blockchain-daily.com/categories/magic/</link>
+      <pubDate>Wed, 23 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/magic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>value</title>
+      <link>https://blockchain-daily.com/categories/value/</link>
+      <pubDate>Tue, 22 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/value/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inflation</title>
+      <link>https://blockchain-daily.com/categories/inflation/</link>
+      <pubDate>Mon, 21 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/inflation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quantum</title>
+      <link>https://blockchain-daily.com/categories/quantum/</link>
+      <pubDate>Mon, 21 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/quantum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contract</title>
+      <link>https://blockchain-daily.com/categories/contract/</link>
+      <pubDate>Thu, 17 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/contract/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>20</title>
+      <link>https://blockchain-daily.com/categories/20/</link>
+      <pubDate>Tue, 15 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social</title>
+      <link>https://blockchain-daily.com/categories/social/</link>
+      <pubDate>Mon, 14 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>samsung</title>
+      <link>https://blockchain-daily.com/categories/samsung/</link>
+      <pubDate>Fri, 11 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/samsung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>youtube</title>
+      <link>https://blockchain-daily.com/categories/youtube/</link>
+      <pubDate>Fri, 11 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/youtube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metaverse</title>
+      <link>https://blockchain-daily.com/categories/metaverse/</link>
+      <pubDate>Thu, 10 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/metaverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>service</title>
+      <link>https://blockchain-daily.com/categories/service/</link>
+      <pubDate>Thu, 10 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cryptopunks</title>
+      <link>https://blockchain-daily.com/categories/cryptopunks/</link>
+      <pubDate>Wed, 09 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/cryptopunks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data</title>
+      <link>https://blockchain-daily.com/categories/data/</link>
+      <pubDate>Wed, 09 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lending</title>
+      <link>https://blockchain-daily.com/categories/lending/</link>
+      <pubDate>Tue, 08 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/lending/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>market</title>
+      <link>https://blockchain-daily.com/categories/market/</link>
+      <pubDate>Tue, 08 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/market/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>many</title>
+      <link>https://blockchain-daily.com/categories/many/</link>
+      <pubDate>Mon, 07 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/many/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>digital</title>
+      <link>https://blockchain-daily.com/categories/digital/</link>
+      <pubDate>Fri, 04 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/digital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cross-chain</title>
+      <link>https://blockchain-daily.com/categories/cross-chain/</link>
+      <pubDate>Thu, 03 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/cross-chain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>network</title>
+      <link>https://blockchain-daily.com/categories/network/</link>
+      <pubDate>Thu, 03 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wormhole</title>
+      <link>https://blockchain-daily.com/categories/wormhole/</link>
+      <pubDate>Thu, 03 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/wormhole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kuiper</title>
+      <link>https://blockchain-daily.com/categories/kuiper/</link>
+      <pubDate>Wed, 02 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/kuiper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>solana</title>
+      <link>https://blockchain-daily.com/categories/solana/</link>
+      <pubDate>Wed, 02 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/solana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chain</title>
+      <link>https://blockchain-daily.com/categories/chain/</link>
+      <pubDate>Mon, 31 Jan 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/chain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2021</title>
+      <link>https://blockchain-daily.com/categories/2021/</link>
+      <pubDate>Fri, 28 Jan 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bitcoin</title>
+      <link>https://blockchain-daily.com/categories/bitcoin/</link>
+      <pubDate>Fri, 28 Jan 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/bitcoin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>governance</title>
+      <link>https://blockchain-daily.com/categories/governance/</link>
+      <pubDate>Fri, 28 Jan 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/governance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>investment</title>
+      <link>https://blockchain-daily.com/categories/investment/</link>
+      <pubDate>Wed, 26 Jan 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/investment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>liquidity</title>
+      <link>https://blockchain-daily.com/categories/liquidity/</link>
+      <pubDate>Wed, 26 Jan 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/liquidity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fees</title>
+      <link>https://blockchain-daily.com/categories/fees/</link>
+      <pubDate>Mon, 24 Jan 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/fees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>platform</title>
+      <link>https://blockchain-daily.com/categories/platform/</link>
+      <pubDate>Fri, 21 Jan 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/platform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>browser</title>
+      <link>https://blockchain-daily.com/categories/browser/</link>
+      <pubDate>Thu, 20 Jan 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/browser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>allow</title>
+      <link>https://blockchain-daily.com/categories/allow/</link>
+      <pubDate>Wed, 19 Jan 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/allow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>https://blockchain-daily.com/categories/first/</link>
+      <pubDate>Wed, 19 Jan 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>price</title>
+      <link>https://blockchain-daily.com/categories/price/</link>
+      <pubDate>Tue, 18 Jan 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/price/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contributors</title>
+      <link>https://blockchain-daily.com/categories/contributors/</link>
+      <pubDate>Fri, 14 Jan 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/contributors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yield</title>
+      <link>https://blockchain-daily.com/categories/yield/</link>
+      <pubDate>Fri, 14 Jan 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/yield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>derivatives</title>
+      <link>https://blockchain-daily.com/categories/derivatives/</link>
+      <pubDate>Thu, 13 Jan 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/derivatives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>developers</title>
+      <link>https://blockchain-daily.com/categories/developers/</link>
+      <pubDate>Thu, 13 Jan 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/developers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>live</title>
+      <link>https://blockchain-daily.com/categories/live/</link>
+      <pubDate>Wed, 12 Jan 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/live/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>using</title>
+      <link>https://blockchain-daily.com/categories/using/</link>
+      <pubDate>Wed, 12 Jan 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/using/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lightning</title>
+      <link>https://blockchain-daily.com/categories/lightning/</link>
+      <pubDate>Tue, 11 Jan 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/lightning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>looks</title>
+      <link>https://blockchain-daily.com/categories/looks/</link>
+      <pubDate>Tue, 11 Jan 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/looks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>staking</title>
+      <link>https://blockchain-daily.com/categories/staking/</link>
+      <pubDate>Mon, 10 Jan 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/staking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web3</title>
+      <link>https://blockchain-daily.com/categories/web3/</link>
+      <pubDate>Mon, 10 Jan 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/categories/web3/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

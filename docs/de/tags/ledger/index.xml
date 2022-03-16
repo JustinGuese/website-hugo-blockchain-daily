@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ledger on Blockchain Daily</title>
+    <link>https://blockchain-daily.com/de/tags/ledger/</link>
+    <description>Recent content in ledger on Blockchain Daily</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Developed By [DataFortress.cloud](https://www.datafortress.cloud/)</copyright>
+    <lastBuildDate>Wed, 09 Mar 2022 12:40:24 +0600</lastBuildDate><atom:link href="https://blockchain-daily.com/de/tags/ledger/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crypto Update NEWS 2022-03-09</title>
+      <link>https://blockchain-daily.com/de/blog/crypto-update-news-2022-03-09/</link>
+      <pubDate>Wed, 09 Mar 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/de/blog/crypto-update-news-2022-03-09/</guid>
+      <description>Incredibly excited to share the launch of Avalanche Multiverse (Twitter thread) The Avalanche Foundation has launched Avalanche Multiverse, an up to $290 million incentive program focused on accelerating the adoption and growth of its subnet functionality.</description>
+    </item>
+    
+    <item>
+      <title>Crypto Update NEWS 2022-02-23</title>
+      <link>https://blockchain-daily.com/de/blog/crypto-update-news-2022-02-23/</link>
+      <pubDate>Wed, 23 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/de/blog/crypto-update-news-2022-02-23/</guid>
+      <description>Solana NFT Marketplace Magic Eden Is Airdropping Tokens, Launching DAO (4 minute read) Magic Eden, the top Solana NFT marketplace, is launching a decentralized autonomous organization called MagicDAO.</description>
+    </item>
+    
+  </channel>
+</rss>

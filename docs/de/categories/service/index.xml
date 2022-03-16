@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>service on Blockchain Daily</title>
+    <link>https://blockchain-daily.com/de/categories/service/</link>
+    <description>Recent content in service on Blockchain Daily</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Developed By [DataFortress.cloud](https://www.datafortress.cloud/)</copyright>
+    <lastBuildDate>Thu, 10 Feb 2022 12:40:24 +0600</lastBuildDate><atom:link href="https://blockchain-daily.com/de/categories/service/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crypto Update NEWS 2022-02-10</title>
+      <link>https://blockchain-daily.com/de/blog/crypto-update-news-2022-02-10/</link>
+      <pubDate>Thu, 10 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/de/blog/crypto-update-news-2022-02-10/</guid>
+      <description>Salesforce tells employees it&amp;rsquo;s working on NFT cloud service (2 minute read) Salesforce plans to make a cloud service for creating NFTs and releasing content on marketplaces like OpenSea.</description>
+    </item>
+    
+  </channel>
+</rss>

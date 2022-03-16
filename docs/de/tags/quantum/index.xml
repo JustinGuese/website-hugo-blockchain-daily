@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>quantum on Blockchain Daily</title>
+    <link>https://blockchain-daily.com/de/tags/quantum/</link>
+    <description>Recent content in quantum on Blockchain Daily</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Developed By [DataFortress.cloud](https://www.datafortress.cloud/)</copyright>
+    <lastBuildDate>Mon, 21 Feb 2022 12:40:24 +0600</lastBuildDate><atom:link href="https://blockchain-daily.com/de/tags/quantum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crypto Update NEWS 2022-02-21</title>
+      <link>https://blockchain-daily.com/de/blog/crypto-update-news-2022-02-21/</link>
+      <pubDate>Mon, 21 Feb 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/de/blog/crypto-update-news-2022-02-21/</guid>
+      <description>First multi-chain DEX simplifies complex routes between blockchains (4 minute read) Rango Exchange is a cross-chain DEX aggregator that uses algorithms to fulfill trade orders across blockchain ecosystems.</description>
+    </item>
+    
+  </channel>
+</rss>

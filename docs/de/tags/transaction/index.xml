@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>transaction on Blockchain Daily</title>
+    <link>https://blockchain-daily.com/de/tags/transaction/</link>
+    <description>Recent content in transaction on Blockchain Daily</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Developed By [DataFortress.cloud](https://www.datafortress.cloud/)</copyright>
+    <lastBuildDate>Tue, 18 Jan 2022 12:40:24 +0600</lastBuildDate><atom:link href="https://blockchain-daily.com/de/tags/transaction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crypto Update NEWS 2022-01-18</title>
+      <link>https://blockchain-daily.com/de/blog/crypto-update-news-2022-01-18/</link>
+      <pubDate>Tue, 18 Jan 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/de/blog/crypto-update-news-2022-01-18/</guid>
+      <description>Cardano Price Surges on SundaeSwap DEX Catalyst (2 minute read) SundaeSwap, a decentralized exchange (DEX) on the Cardano blockchain, is set to launch on January 20.</description>
+    </item>
+    
+    <item>
+      <title>Crypto Update NEWS 2022-01-17</title>
+      <link>https://blockchain-daily.com/de/blog/crypto-update-news-2022-01-17/</link>
+      <pubDate>Mon, 17 Jan 2022 12:40:24 +0600</pubDate>
+      
+      <guid>https://blockchain-daily.com/de/blog/crypto-update-news-2022-01-17/</guid>
+      <description>‘Wen Token?’: Polymarket’s New Airdrop Futures Market Has Answers (3 minute read) Polymarket has launched Airdrop Futures, a new market where speculators can bet on whether projects will airdrop tokens.</description>
+    </item>
+    
+  </channel>
+</rss>
